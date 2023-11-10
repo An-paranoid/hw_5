@@ -37,7 +37,7 @@
    border: 0;
    box-sizing: border-box;
 }
-li, {
+li {
    list-style: none;
 }
 a,
@@ -92,6 +92,24 @@ body {
     justify-content: space-between; 
     align-items: center; 
 }
+.top__logo{
+
+}
+
+.part1{  
+    display: inline-block; 
+    margin-left: 10px;
+    font-family: 'Gilroy Bold';
+    font-size: 24px; 
+   color: #000000;
+   line-height :35px; 
+    vertical-align: middle;
+
+}
+.part2{
+     color:rgba(242, 88, 34, 1);
+}
+
 
 .navbar {
     list-style: none; 
